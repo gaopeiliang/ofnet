@@ -27,7 +27,7 @@ import (
 	"github.com/contiv/libOpenflow/protocol"
 	"github.com/contiv/ofnet/ofctrl"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	cmap "github.com/streamrail/concurrent-map"
 )
 

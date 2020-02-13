@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	api "github.com/osrg/gobgp/api"
 	bgp "github.com/osrg/gobgp/packet/bgp"
 	table "github.com/osrg/gobgp/table"

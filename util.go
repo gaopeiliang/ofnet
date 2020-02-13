@@ -29,7 +29,7 @@ import (
 	"github.com/contiv/ofnet/ofctrl"
 	"github.com/vishvananda/netlink"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // ParseCIDR parses a CIDR string into a gateway IP and length.

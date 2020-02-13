@@ -30,7 +30,7 @@ import (
 	cmap "github.com/streamrail/concurrent-map"
 	"github.com/vishvananda/netlink"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // Vlan bridging currently uses native OVS bridging.

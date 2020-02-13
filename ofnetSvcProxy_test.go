@@ -25,7 +25,7 @@ import (
 	"github.com/contiv/libOpenflow/protocol"
 	"github.com/contiv/ofnet/ofctrl"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/contiv/ofnet/ovsdbDriver"
 )
 

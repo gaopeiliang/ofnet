@@ -23,7 +23,7 @@ import (
 	"github.com/contiv/ofnet"
 	"github.com/contiv/ofnet/ovsdbDriver"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 const OVS_CTRLER_PORT = 6633

@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"sync"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/contiv/ofnet/ofctrl"
 )
 

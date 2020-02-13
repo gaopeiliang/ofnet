@@ -38,7 +38,7 @@ import (
 	"github.com/contiv/ofnet/ofctrl"
 	"github.com/spf13/pflag"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	cmap "github.com/streamrail/concurrent-map"
 )
 

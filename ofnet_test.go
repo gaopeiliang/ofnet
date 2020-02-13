@@ -11,7 +11,7 @@ import (
 
 	"github.com/contiv/ofnet/ovsdbDriver"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 const NUM_MASTER = 2

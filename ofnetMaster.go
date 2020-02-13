@@ -27,7 +27,7 @@ import (
 
 	"github.com/contiv/ofnet/rpcHub"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 )
 
 // per agent stats

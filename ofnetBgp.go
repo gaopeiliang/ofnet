@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	bgp "github.com/osrg/gobgp/packet/bgp"
 	table "github.com/osrg/gobgp/table"
 
